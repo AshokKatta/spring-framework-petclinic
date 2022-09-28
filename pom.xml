@@ -82,31 +82,6 @@
 
     </properties>
     
-<repositories>
- <repository>
-  <id>springfeed2</id>
-  <url>https://pkgs.dev.azure.com/pottiashok5670790/f8f31bb9-d35d-4680-8559-74cec6b81cbc/_packaging/springfeed2/maven/v1</url>
-  <releases>
-  <enabled>true</enabled>
-  </releases>
-  <snapshots>
-  <enabled>true</enabled>
-  </snapshots>
- </repository>
-<\repositories>
-    
-<distributionManagement>
- <repository>
-  <id>springfeed2</id>
-  <url>https://pkgs.dev.azure.com/pottiashok5670790/f8f31bb9-d35d-4680-8559-74cec6b81cbc/_packaging/springfeed2/maven/v1</url>
-  <releases>
-  <enabled>true</enabled>
-  </releases>
-  <snapshots>
-  <enabled>true</enabled>
-  </snapshots>
- </repository>
-<\distributionManagement>
 
     <dependencyManagement>
         <dependencies>
